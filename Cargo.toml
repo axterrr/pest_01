@@ -2,6 +2,9 @@
 name = "pest_01"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Parser with pest"
+authors = ["Hibskyi Vladyslav"]
 
 [dependencies]
 anyhow = "1.0.91"
